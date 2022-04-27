@@ -1,5 +1,5 @@
 # Account info
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shappybappy&layout=compact&theme=gruvbox)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shappybappy&layout=compact&icons=true&theme=gruvbox)]
 ```sh-session
 pip install friends
 ```
