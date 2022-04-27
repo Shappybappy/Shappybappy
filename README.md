@@ -2,6 +2,7 @@
 <a href="https://github.com/Shappybappy/Shappybappy">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shappybappy&layout=compact&icons=true&theme=gruvbox" />
 </a>
+
 ```sh-session
 pip install friends
 ```
