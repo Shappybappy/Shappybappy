@@ -1,3 +1,8 @@
+# Account info
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+
+
+#BIO
 Hello I am Shapsty,
 I am interested in a lot of things, mostly with science, languages, computer languages, etc.
 Currently I am working on learning java for making minecraft mods for me and my friends.
